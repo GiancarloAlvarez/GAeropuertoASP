@@ -1,0 +1,53 @@
+﻿@model IEnumerable<GAeropuerto.Models.Piloto>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Licencia)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.HorasVuelo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FechaRev)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IdPersonaNavigation)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Licencia)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.HorasVuelo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FechaRev)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdPersonaNavigation.Nombre)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.IdPiloto">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.IdPiloto">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.IdPiloto">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
