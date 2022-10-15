@@ -8,237 +8,237 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = GAeropuerto
 build_property.RootNamespace = GAeropuerto
-build_property.ProjectDir = C:\Users\INFOTEP\Desktop\AspGiancarlo\ASPGAeropuerto\GAeropuertoASP\GAeropuerto\GAeropuerto\
+build_property.ProjectDir = C:\Users\GGJEANZS\Documents\GitHub\GAeropuertoASP\GAeropuerto\GAeropuerto\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\INFOTEP\Desktop\AspGiancarlo\ASPGAeropuerto\GAeropuertoASP\GAeropuerto\GAeropuerto
+build_property.MSBuildProjectDirectory = C:\Users\GGJEANZS\Documents\GitHub\GAeropuertoASP\GAeropuerto\GAeropuerto
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/INFOTEP/Desktop/AspGiancarlo/ASPGAeropuerto/GAeropuertoASP/GAeropuerto/GAeropuerto/Views/Aviones/Create.cshtml]
+[C:/Users/GGJEANZS/Documents/GitHub/GAeropuertoASP/GAeropuerto/GAeropuerto/Views/Aviones/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXZpb25lc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/INFOTEP/Desktop/AspGiancarlo/ASPGAeropuerto/GAeropuertoASP/GAeropuerto/GAeropuerto/Views/Aviones/Delete.cshtml]
+[C:/Users/GGJEANZS/Documents/GitHub/GAeropuertoASP/GAeropuerto/GAeropuerto/Views/Aviones/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXZpb25lc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/INFOTEP/Desktop/AspGiancarlo/ASPGAeropuerto/GAeropuertoASP/GAeropuerto/GAeropuerto/Views/Aviones/Details.cshtml]
+[C:/Users/GGJEANZS/Documents/GitHub/GAeropuertoASP/GAeropuerto/GAeropuerto/Views/Aviones/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXZpb25lc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/INFOTEP/Desktop/AspGiancarlo/ASPGAeropuerto/GAeropuertoASP/GAeropuerto/GAeropuerto/Views/Aviones/Edit.cshtml]
+[C:/Users/GGJEANZS/Documents/GitHub/GAeropuertoASP/GAeropuerto/GAeropuerto/Views/Aviones/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXZpb25lc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/INFOTEP/Desktop/AspGiancarlo/ASPGAeropuerto/GAeropuertoASP/GAeropuerto/GAeropuerto/Views/Aviones/Index.cshtml]
+[C:/Users/GGJEANZS/Documents/GitHub/GAeropuertoASP/GAeropuerto/GAeropuerto/Views/Aviones/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXZpb25lc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/INFOTEP/Desktop/AspGiancarlo/ASPGAeropuerto/GAeropuertoASP/GAeropuerto/GAeropuerto/Views/Empleadoes/Create.cshtml]
+[C:/Users/GGJEANZS/Documents/GitHub/GAeropuertoASP/GAeropuerto/GAeropuerto/Views/Empleadoes/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG9lc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/INFOTEP/Desktop/AspGiancarlo/ASPGAeropuerto/GAeropuertoASP/GAeropuerto/GAeropuerto/Views/Empleadoes/Delete.cshtml]
+[C:/Users/GGJEANZS/Documents/GitHub/GAeropuertoASP/GAeropuerto/GAeropuerto/Views/Empleadoes/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG9lc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/INFOTEP/Desktop/AspGiancarlo/ASPGAeropuerto/GAeropuertoASP/GAeropuerto/GAeropuerto/Views/Empleadoes/Details.cshtml]
+[C:/Users/GGJEANZS/Documents/GitHub/GAeropuertoASP/GAeropuerto/GAeropuerto/Views/Empleadoes/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG9lc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/INFOTEP/Desktop/AspGiancarlo/ASPGAeropuerto/GAeropuertoASP/GAeropuerto/GAeropuerto/Views/Empleadoes/Edit.cshtml]
+[C:/Users/GGJEANZS/Documents/GitHub/GAeropuertoASP/GAeropuerto/GAeropuerto/Views/Empleadoes/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG9lc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/INFOTEP/Desktop/AspGiancarlo/ASPGAeropuerto/GAeropuertoASP/GAeropuerto/GAeropuerto/Views/Empleadoes/Index.cshtml]
+[C:/Users/GGJEANZS/Documents/GitHub/GAeropuertoASP/GAeropuerto/GAeropuerto/Views/Empleadoes/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG9lc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/INFOTEP/Desktop/AspGiancarlo/ASPGAeropuerto/GAeropuertoASP/GAeropuerto/GAeropuerto/Views/Estadiums/Create.cshtml]
+[C:/Users/GGJEANZS/Documents/GitHub/GAeropuertoASP/GAeropuerto/GAeropuerto/Views/Estadiums/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0YWRpdW1zXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/INFOTEP/Desktop/AspGiancarlo/ASPGAeropuerto/GAeropuertoASP/GAeropuerto/GAeropuerto/Views/Estadiums/Delete.cshtml]
+[C:/Users/GGJEANZS/Documents/GitHub/GAeropuertoASP/GAeropuerto/GAeropuerto/Views/Estadiums/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0YWRpdW1zXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/INFOTEP/Desktop/AspGiancarlo/ASPGAeropuerto/GAeropuertoASP/GAeropuerto/GAeropuerto/Views/Estadiums/Details.cshtml]
+[C:/Users/GGJEANZS/Documents/GitHub/GAeropuertoASP/GAeropuerto/GAeropuerto/Views/Estadiums/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0YWRpdW1zXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/INFOTEP/Desktop/AspGiancarlo/ASPGAeropuerto/GAeropuertoASP/GAeropuerto/GAeropuerto/Views/Estadiums/Edit.cshtml]
+[C:/Users/GGJEANZS/Documents/GitHub/GAeropuertoASP/GAeropuerto/GAeropuerto/Views/Estadiums/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0YWRpdW1zXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/INFOTEP/Desktop/AspGiancarlo/ASPGAeropuerto/GAeropuertoASP/GAeropuerto/GAeropuerto/Views/Estadiums/Index.cshtml]
+[C:/Users/GGJEANZS/Documents/GitHub/GAeropuertoASP/GAeropuerto/GAeropuerto/Views/Estadiums/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0YWRpdW1zXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/INFOTEP/Desktop/AspGiancarlo/ASPGAeropuerto/GAeropuertoASP/GAeropuerto/GAeropuerto/Views/Hangars/Create.cshtml]
+[C:/Users/GGJEANZS/Documents/GitHub/GAeropuertoASP/GAeropuerto/GAeropuerto/Views/Hangars/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFuZ2Fyc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/INFOTEP/Desktop/AspGiancarlo/ASPGAeropuerto/GAeropuertoASP/GAeropuerto/GAeropuerto/Views/Hangars/Delete.cshtml]
+[C:/Users/GGJEANZS/Documents/GitHub/GAeropuertoASP/GAeropuerto/GAeropuerto/Views/Hangars/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFuZ2Fyc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/INFOTEP/Desktop/AspGiancarlo/ASPGAeropuerto/GAeropuertoASP/GAeropuerto/GAeropuerto/Views/Hangars/Details.cshtml]
+[C:/Users/GGJEANZS/Documents/GitHub/GAeropuertoASP/GAeropuerto/GAeropuerto/Views/Hangars/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFuZ2Fyc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/INFOTEP/Desktop/AspGiancarlo/ASPGAeropuerto/GAeropuertoASP/GAeropuerto/GAeropuerto/Views/Hangars/Edit.cshtml]
+[C:/Users/GGJEANZS/Documents/GitHub/GAeropuertoASP/GAeropuerto/GAeropuerto/Views/Hangars/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFuZ2Fyc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/INFOTEP/Desktop/AspGiancarlo/ASPGAeropuerto/GAeropuertoASP/GAeropuerto/GAeropuerto/Views/Hangars/Index.cshtml]
+[C:/Users/GGJEANZS/Documents/GitHub/GAeropuertoASP/GAeropuerto/GAeropuerto/Views/Hangars/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFuZ2Fyc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/INFOTEP/Desktop/AspGiancarlo/ASPGAeropuerto/GAeropuertoASP/GAeropuerto/GAeropuerto/Views/Home/Index.cshtml]
+[C:/Users/GGJEANZS/Documents/GitHub/GAeropuertoASP/GAeropuerto/GAeropuerto/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/INFOTEP/Desktop/AspGiancarlo/ASPGAeropuerto/GAeropuertoASP/GAeropuerto/GAeropuerto/Views/Home/Privacy.cshtml]
+[C:/Users/GGJEANZS/Documents/GitHub/GAeropuertoASP/GAeropuerto/GAeropuerto/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/INFOTEP/Desktop/AspGiancarlo/ASPGAeropuerto/GAeropuertoASP/GAeropuerto/GAeropuerto/Views/Modeloes/Create.cshtml]
+[C:/Users/GGJEANZS/Documents/GitHub/GAeropuertoASP/GAeropuerto/GAeropuerto/Views/Modeloes/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9kZWxvZXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/INFOTEP/Desktop/AspGiancarlo/ASPGAeropuerto/GAeropuertoASP/GAeropuerto/GAeropuerto/Views/Modeloes/Delete.cshtml]
+[C:/Users/GGJEANZS/Documents/GitHub/GAeropuertoASP/GAeropuerto/GAeropuerto/Views/Modeloes/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9kZWxvZXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/INFOTEP/Desktop/AspGiancarlo/ASPGAeropuerto/GAeropuertoASP/GAeropuerto/GAeropuerto/Views/Modeloes/Details.cshtml]
+[C:/Users/GGJEANZS/Documents/GitHub/GAeropuertoASP/GAeropuerto/GAeropuerto/Views/Modeloes/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9kZWxvZXNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/INFOTEP/Desktop/AspGiancarlo/ASPGAeropuerto/GAeropuertoASP/GAeropuerto/GAeropuerto/Views/Modeloes/Edit.cshtml]
+[C:/Users/GGJEANZS/Documents/GitHub/GAeropuertoASP/GAeropuerto/GAeropuerto/Views/Modeloes/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9kZWxvZXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/INFOTEP/Desktop/AspGiancarlo/ASPGAeropuerto/GAeropuertoASP/GAeropuerto/GAeropuerto/Views/Modeloes/Index.cshtml]
+[C:/Users/GGJEANZS/Documents/GitHub/GAeropuertoASP/GAeropuerto/GAeropuerto/Views/Modeloes/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9kZWxvZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/INFOTEP/Desktop/AspGiancarlo/ASPGAeropuerto/GAeropuertoASP/GAeropuerto/GAeropuerto/Views/Personas/Create.cshtml]
+[C:/Users/GGJEANZS/Documents/GitHub/GAeropuertoASP/GAeropuerto/GAeropuerto/Views/Personas/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uYXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/INFOTEP/Desktop/AspGiancarlo/ASPGAeropuerto/GAeropuertoASP/GAeropuerto/GAeropuerto/Views/Personas/Delete.cshtml]
+[C:/Users/GGJEANZS/Documents/GitHub/GAeropuertoASP/GAeropuerto/GAeropuerto/Views/Personas/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uYXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/INFOTEP/Desktop/AspGiancarlo/ASPGAeropuerto/GAeropuertoASP/GAeropuerto/GAeropuerto/Views/Personas/Details.cshtml]
+[C:/Users/GGJEANZS/Documents/GitHub/GAeropuertoASP/GAeropuerto/GAeropuerto/Views/Personas/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uYXNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/INFOTEP/Desktop/AspGiancarlo/ASPGAeropuerto/GAeropuertoASP/GAeropuerto/GAeropuerto/Views/Personas/Edit.cshtml]
+[C:/Users/GGJEANZS/Documents/GitHub/GAeropuertoASP/GAeropuerto/GAeropuerto/Views/Personas/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uYXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/INFOTEP/Desktop/AspGiancarlo/ASPGAeropuerto/GAeropuertoASP/GAeropuerto/GAeropuerto/Views/Personas/Index.cshtml]
+[C:/Users/GGJEANZS/Documents/GitHub/GAeropuertoASP/GAeropuerto/GAeropuerto/Views/Personas/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uYXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/INFOTEP/Desktop/AspGiancarlo/ASPGAeropuerto/GAeropuertoASP/GAeropuerto/GAeropuerto/Views/Pilotos/Create.cshtml]
+[C:/Users/GGJEANZS/Documents/GitHub/GAeropuertoASP/GAeropuerto/GAeropuerto/Views/Pilotos/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGlsb3Rvc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/INFOTEP/Desktop/AspGiancarlo/ASPGAeropuerto/GAeropuertoASP/GAeropuerto/GAeropuerto/Views/Pilotos/Delete.cshtml]
+[C:/Users/GGJEANZS/Documents/GitHub/GAeropuertoASP/GAeropuerto/GAeropuerto/Views/Pilotos/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGlsb3Rvc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/INFOTEP/Desktop/AspGiancarlo/ASPGAeropuerto/GAeropuertoASP/GAeropuerto/GAeropuerto/Views/Pilotos/Details.cshtml]
+[C:/Users/GGJEANZS/Documents/GitHub/GAeropuertoASP/GAeropuerto/GAeropuerto/Views/Pilotos/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGlsb3Rvc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/INFOTEP/Desktop/AspGiancarlo/ASPGAeropuerto/GAeropuertoASP/GAeropuerto/GAeropuerto/Views/Pilotos/Edit.cshtml]
+[C:/Users/GGJEANZS/Documents/GitHub/GAeropuertoASP/GAeropuerto/GAeropuerto/Views/Pilotos/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGlsb3Rvc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/INFOTEP/Desktop/AspGiancarlo/ASPGAeropuerto/GAeropuertoASP/GAeropuerto/GAeropuerto/Views/Pilotos/Index.cshtml]
+[C:/Users/GGJEANZS/Documents/GitHub/GAeropuertoASP/GAeropuerto/GAeropuerto/Views/Pilotos/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGlsb3Rvc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/INFOTEP/Desktop/AspGiancarlo/ASPGAeropuerto/GAeropuertoASP/GAeropuerto/GAeropuerto/Views/Propietarios/Create.cshtml]
+[C:/Users/GGJEANZS/Documents/GitHub/GAeropuertoASP/GAeropuerto/GAeropuerto/Views/Propietarios/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvcGlldGFyaW9zXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/INFOTEP/Desktop/AspGiancarlo/ASPGAeropuerto/GAeropuertoASP/GAeropuerto/GAeropuerto/Views/Propietarios/Delete.cshtml]
+[C:/Users/GGJEANZS/Documents/GitHub/GAeropuertoASP/GAeropuerto/GAeropuerto/Views/Propietarios/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvcGlldGFyaW9zXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/INFOTEP/Desktop/AspGiancarlo/ASPGAeropuerto/GAeropuertoASP/GAeropuerto/GAeropuerto/Views/Propietarios/Details.cshtml]
+[C:/Users/GGJEANZS/Documents/GitHub/GAeropuertoASP/GAeropuerto/GAeropuerto/Views/Propietarios/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvcGlldGFyaW9zXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/INFOTEP/Desktop/AspGiancarlo/ASPGAeropuerto/GAeropuertoASP/GAeropuerto/GAeropuerto/Views/Propietarios/Edit.cshtml]
+[C:/Users/GGJEANZS/Documents/GitHub/GAeropuertoASP/GAeropuerto/GAeropuerto/Views/Propietarios/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvcGlldGFyaW9zXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/INFOTEP/Desktop/AspGiancarlo/ASPGAeropuerto/GAeropuertoASP/GAeropuerto/GAeropuerto/Views/Propietarios/Index.cshtml]
+[C:/Users/GGJEANZS/Documents/GitHub/GAeropuertoASP/GAeropuerto/GAeropuerto/Views/Propietarios/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvcGlldGFyaW9zXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/INFOTEP/Desktop/AspGiancarlo/ASPGAeropuerto/GAeropuertoASP/GAeropuerto/GAeropuerto/Views/Shared/Error.cshtml]
+[C:/Users/GGJEANZS/Documents/GitHub/GAeropuertoASP/GAeropuerto/GAeropuerto/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/INFOTEP/Desktop/AspGiancarlo/ASPGAeropuerto/GAeropuertoASP/GAeropuerto/GAeropuerto/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/GGJEANZS/Documents/GitHub/GAeropuertoASP/GAeropuerto/GAeropuerto/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/INFOTEP/Desktop/AspGiancarlo/ASPGAeropuerto/GAeropuertoASP/GAeropuerto/GAeropuerto/Views/TipoAvions/Create.cshtml]
+[C:/Users/GGJEANZS/Documents/GitHub/GAeropuertoASP/GAeropuerto/GAeropuerto/Views/TipoAvions/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb0F2aW9uc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/INFOTEP/Desktop/AspGiancarlo/ASPGAeropuerto/GAeropuertoASP/GAeropuerto/GAeropuerto/Views/TipoAvions/Delete.cshtml]
+[C:/Users/GGJEANZS/Documents/GitHub/GAeropuertoASP/GAeropuerto/GAeropuerto/Views/TipoAvions/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb0F2aW9uc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/INFOTEP/Desktop/AspGiancarlo/ASPGAeropuerto/GAeropuertoASP/GAeropuerto/GAeropuerto/Views/TipoAvions/Details.cshtml]
+[C:/Users/GGJEANZS/Documents/GitHub/GAeropuertoASP/GAeropuerto/GAeropuerto/Views/TipoAvions/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb0F2aW9uc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/INFOTEP/Desktop/AspGiancarlo/ASPGAeropuerto/GAeropuertoASP/GAeropuerto/GAeropuerto/Views/TipoAvions/Edit.cshtml]
+[C:/Users/GGJEANZS/Documents/GitHub/GAeropuertoASP/GAeropuerto/GAeropuerto/Views/TipoAvions/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb0F2aW9uc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/INFOTEP/Desktop/AspGiancarlo/ASPGAeropuerto/GAeropuertoASP/GAeropuerto/GAeropuerto/Views/TipoAvions/Index.cshtml]
+[C:/Users/GGJEANZS/Documents/GitHub/GAeropuertoASP/GAeropuerto/GAeropuerto/Views/TipoAvions/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb0F2aW9uc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/INFOTEP/Desktop/AspGiancarlo/ASPGAeropuerto/GAeropuertoASP/GAeropuerto/GAeropuerto/Views/Vueloes/Create.cshtml]
+[C:/Users/GGJEANZS/Documents/GitHub/GAeropuertoASP/GAeropuerto/GAeropuerto/Views/Vueloes/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVnVlbG9lc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/INFOTEP/Desktop/AspGiancarlo/ASPGAeropuerto/GAeropuertoASP/GAeropuerto/GAeropuerto/Views/Vueloes/Delete.cshtml]
+[C:/Users/GGJEANZS/Documents/GitHub/GAeropuertoASP/GAeropuerto/GAeropuerto/Views/Vueloes/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVnVlbG9lc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/INFOTEP/Desktop/AspGiancarlo/ASPGAeropuerto/GAeropuertoASP/GAeropuerto/GAeropuerto/Views/Vueloes/Details.cshtml]
+[C:/Users/GGJEANZS/Documents/GitHub/GAeropuertoASP/GAeropuerto/GAeropuerto/Views/Vueloes/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVnVlbG9lc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/INFOTEP/Desktop/AspGiancarlo/ASPGAeropuerto/GAeropuertoASP/GAeropuerto/GAeropuerto/Views/Vueloes/Edit.cshtml]
+[C:/Users/GGJEANZS/Documents/GitHub/GAeropuertoASP/GAeropuerto/GAeropuerto/Views/Vueloes/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVnVlbG9lc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/INFOTEP/Desktop/AspGiancarlo/ASPGAeropuerto/GAeropuertoASP/GAeropuerto/GAeropuerto/Views/Vueloes/Index.cshtml]
+[C:/Users/GGJEANZS/Documents/GitHub/GAeropuertoASP/GAeropuerto/GAeropuerto/Views/Vueloes/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVnVlbG9lc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/INFOTEP/Desktop/AspGiancarlo/ASPGAeropuerto/GAeropuertoASP/GAeropuerto/GAeropuerto/Views/_ViewImports.cshtml]
+[C:/Users/GGJEANZS/Documents/GitHub/GAeropuertoASP/GAeropuerto/GAeropuerto/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/INFOTEP/Desktop/AspGiancarlo/ASPGAeropuerto/GAeropuertoASP/GAeropuerto/GAeropuerto/Views/_ViewStart.cshtml]
+[C:/Users/GGJEANZS/Documents/GitHub/GAeropuertoASP/GAeropuerto/GAeropuerto/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/INFOTEP/Desktop/AspGiancarlo/ASPGAeropuerto/GAeropuertoASP/GAeropuerto/GAeropuerto/Views/Shared/_Layout.cshtml]
+[C:/Users/GGJEANZS/Documents/GitHub/GAeropuertoASP/GAeropuerto/GAeropuerto/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-yvk9hq9yp7

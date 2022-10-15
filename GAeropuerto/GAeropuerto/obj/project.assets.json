@@ -9466,28 +9466,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\INFOTEP\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\GGJEANZS\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\INFOTEP\\Desktop\\AspGiancarlo\\ASPGAeropuerto\\GAeropuertoASP\\GAeropuerto\\GAeropuerto\\GAeropuerto.csproj",
+      "projectUniqueName": "C:\\Users\\GGJEANZS\\Documents\\GitHub\\GAeropuertoASP\\GAeropuerto\\GAeropuerto\\GAeropuerto.csproj",
       "projectName": "GAeropuerto",
-      "projectPath": "C:\\Users\\INFOTEP\\Desktop\\AspGiancarlo\\ASPGAeropuerto\\GAeropuertoASP\\GAeropuerto\\GAeropuerto\\GAeropuerto.csproj",
-      "packagesPath": "C:\\Users\\INFOTEP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\INFOTEP\\Desktop\\AspGiancarlo\\ASPGAeropuerto\\GAeropuertoASP\\GAeropuerto\\GAeropuerto\\obj\\",
+      "projectPath": "C:\\Users\\GGJEANZS\\Documents\\GitHub\\GAeropuertoASP\\GAeropuerto\\GAeropuerto\\GAeropuerto.csproj",
+      "packagesPath": "C:\\Users\\GGJEANZS\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\GGJEANZS\\Documents\\GitHub\\GAeropuertoASP\\GAeropuerto\\GAeropuerto\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\INFOTEP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\GGJEANZS\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -9551,7 +9548,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }
